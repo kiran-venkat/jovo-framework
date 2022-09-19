@@ -122,4 +122,4 @@ Here are a few things you can do to extend the app:
 - Add [handlers](./handlers.md) for these intents to the existing components.
 - Create new [components](./components.md).
 - Learn more about [routing](./routing.md) to understand when which components and handlers are executed.
-- Learn more about [Jovo properties](./jovo-properties.md) and how to use them.
+- Learn more about [Jovo properties](./jovo-properties.md) and how to use them in different cases.
